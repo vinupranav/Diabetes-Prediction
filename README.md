@@ -71,4 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-Special thanks to the contributors and data providers who made this project possible.
+Special thanks data providers who made this project possible.
